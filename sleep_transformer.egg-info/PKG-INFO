@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: sleep-transformer
+Version: 0.1
+Summary: sleep transformer para determinar estado de sueño con entrenamiento en dos etapas
+Home-page: https://github.com/rcasal/sleep_transformer.git
+Author: Ramiro Casal
+Author-email: rcasal@conicet.gov.ar
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
